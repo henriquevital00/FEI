@@ -1,0 +1,72 @@
+babbs
+bangwe
+belinuridae
+bidkar
+bimahs
+cade
+coldren
+cyprinidae
+dalmard
+datagrams
+disillusion
+gatehouse
+goodsprings
+highinterest
+loney
+malibu
+mbwisi
+misumalpan
+nahor
+needers
+nonadecane
+pighead
+proboscidial
+pushball
+tuitionary
+unhumbled
+urfirnis
+verbed
+warfel
+capacity: 40
+size: 29
+====================
+babbs
+bangwe
+belinuridae
+bidkar
+bimahs
+jihad
+capacity: 10
+size: 6
+====================
+babbs
+bangwe
+belinuridae
+bidkar
+bimahs
+jihad
+capacity: 6
+size: 6
+====================
+nao removeu pighead
+removeu babbs
+removeu jihad
+bangwe
+belinuridae
+bidkar
+bimahs
+capacity: 6
+size: 4
+====================
+bangwe
+belinuridae
+bidkar
+bimahs
+bimahs
+cade
+mbwisi
+nahor
+nonadecane
+capacity: 12
+size: 9
+====================
