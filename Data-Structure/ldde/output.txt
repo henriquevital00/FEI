@@ -1,0 +1,83 @@
+nao removi
+
+inseri 5
+5 
+inseri 85
+5 85 
+inseri 69
+5 69 85 
+removi 5
+69 85 
+inseri 84
+69 84 85 
+inseri 83
+69 83 84 85 
+removi 84
+69 83 85 
+removi 83
+69 85 
+inseri 38
+38 69 85 
+1
+0
+inseri 856
+38 69 85 856 
+inseri 846
+38 69 85 846 856 
+removi 856
+38 69 85 846 
+inseri 390
+38 69 85 390 846 
+removi 390
+38 69 85 846 
+0
+0
+chamei o construtor por copia
+nao removi
+38 69 85 846 
+removi 38
+69 85 846 
+removi 69
+85 846 
+nao removi
+85 846 
+nao removi
+85 846 
+removi 85
+846 
+nao removi
+846 
+removi 846
+
+nao removi
+
+nao removi
+
+nao removi
+
+nao removi
+
+nao removi
+
+nao removi
+
+nao removi
+
+nao removi
+
+nao removi
+
+nao removi
+
+Vou imprimir
+chamei o construtor por copia
+Vou imprimir
+800 
+destrutor invocado
+destrutor invocado
+Vou imprimir
+chamei o construtor por copia
+Vou imprimir
+
+destrutor invocado
+destrutor invocado

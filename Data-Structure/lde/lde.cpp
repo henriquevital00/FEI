@@ -37,7 +37,6 @@ private:
 
 public:
   ~Node () {
-      std::cout << "Call the destructor " << std::endl;
   }
 };
 
